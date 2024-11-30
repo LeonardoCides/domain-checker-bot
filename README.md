@@ -17,7 +17,7 @@ Este script utiliza o Selenium WebDriver para verificar a disponibilidade de um 
 2. **Instalação**
    - Clone este repositório:
      ```bash
-     git clone https://github.com/LeonardoCides/SEU-REPOSITORIO.git
+     git clone https://github.com/LeonardoCides/domain-checker-bot
      ```
    - Instale as dependências:
      ```bash
@@ -37,7 +37,5 @@ Este script utiliza o Selenium WebDriver para verificar a disponibilidade de um 
      python bot.py
      ```
    - O script irá verificar a disponibilidade do domínio `cides.store` e imprimir se o domínio está disponível ou não.
-
-   Você também pode passar diferentes domínios como argumento no código.
 
 ## Exemplo de saída
